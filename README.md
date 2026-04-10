@@ -35,12 +35,6 @@
    *Note: If Node 17+, legacy OpenSSL enabled. Update browserslist: `npx browserslist@latest --update-db`*
 4. Open `http://localhost:8080` in your browser.
 
-## 📱 Screenshots
-*(Add your screenshots/GIF here)*
-- Board overview: ![Board](./src/assets/logo.svg) *(Replace with board.png)*
-- Adding task modal
-- Drag-drop animation
-
 ## 💡 Usage
 1. Click `+` to add columns/tables.
 2. Select table in task modal to add tasks.
